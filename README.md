@@ -15,7 +15,7 @@ One of the benefits of schema-first design is that it reduces total development 
 A <b>schema</b> is like a contract between the server and the client. It defines what a GraphQL API can and can't do, and how clients can request or change data. It's an abstraction layer that provides flexibility to consumers while hiding back-end implementation details.
 
 
-Full demo application from this course is available [live.](https://lift-off-client-demo.netlify.app/)
+Full demo application for this course is available [live.](https://lift-off-client-demo.netlify.app/)
 
 ![Application homepage](https://raw.githubusercontent.com/nemanjarogic/catstronauts/main/client/public/homepage.png "Homepage")
 
@@ -27,8 +27,6 @@ Castronauts fullstack app holds two main folders `server` and `client`
 
 - Install packages `cd server && npm install`
 - Start server `npm start`
-
-The graphql server pulls data from a rest API holding the
 
 ### client
 
